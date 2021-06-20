@@ -9,21 +9,25 @@
 /gradlew.bat
 /Coffee Machine/lesson-info.yaml
 /settings.gradle
-/Coffee Machine/Brush up your code/task.html
-/Coffee Machine/Buy, fill, take_/task.html
-/Coffee Machine/Estimate the number of servings/task.html
-/Coffee Machine/Ingredient calculator/task.html
-/Coffee Machine/Keep track of the supplies/task.html
-/Coffee Machine/Making coffee/task.html
-/Coffee Machine/Brush up your code/task-info.yaml
-/Coffee Machine/Buy, fill, take_/task-info.yaml
-/Coffee Machine/Estimate the number of servings/task-info.yaml
-/Coffee Machine/Ingredient calculator/task-info.yaml
-/Coffee Machine/Keep track of the supplies/task-info.yaml
-/Coffee Machine/Making coffee/task-info.yaml
-/Coffee Machine/Brush up your code/task-remote-info.yaml
-/Coffee Machine/Buy, fill, take_/task-remote-info.yaml
-/Coffee Machine/Estimate the number of servings/task-remote-info.yaml
-/Coffee Machine/Ingredient calculator/task-remote-info.yaml
-/Coffee Machine/Keep track of the supplies/task-remote-info.yaml
-/Coffee Machine/Making coffee/task-remote-info.yaml
+/Coffee Machine/Brush up your code/
+/Coffee Machine/Buy, fill, take_/
+/Coffee Machine/Estimate the number of servings/
+/Coffee Machine/Ingredient calculator/
+/Coffee Machine/Keep track of the supplies/
+/Coffee Machine/Making coffee/
+*.class
+*.tmp
+
+/Coffee Machine/task/build/reports/tests/test/css/base-style.css
+/Coffee Machine/task/build/reports/tests/test/classes/CoffeeMachineTest.html
+/Coffee Machine/task/build/reports/tests/test/packages/default-package.html
+/Coffee Machine/task/build/reports/tests/test/index.html
+/Coffee Machine/task/build/tmp/test/jar_extract_13389085272281820276_tmp
+/Coffee Machine/task/build/test-results/test/binary/output.bin
+/Coffee Machine/task/build/test-results/test/binary/output.bin.idx
+/Coffee Machine/task/build/reports/tests/test/js/report.js
+/Coffee Machine/task/build/test-results/test/binary/results.bin
+/Coffee Machine/task/build/tmp/compileJava/source-classes-mapping.txt
+/Coffee Machine/task/build/tmp/compileTestJava/source-classes-mapping.txt
+/Coffee Machine/task/build/reports/tests/test/css/style.css
+/Coffee Machine/task/build/test-results/test/TEST-CoffeeMachineTest.xml
