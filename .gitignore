@@ -1,2 +1,29 @@
 # Project exclude paths
 /.gradle/
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/Coffee Machine/lesson-info.yaml
+/settings.gradle
+/Coffee Machine/Brush up your code/task.html
+/Coffee Machine/Buy, fill, take_/task.html
+/Coffee Machine/Estimate the number of servings/task.html
+/Coffee Machine/Ingredient calculator/task.html
+/Coffee Machine/Keep track of the supplies/task.html
+/Coffee Machine/Making coffee/task.html
+/Coffee Machine/Brush up your code/task-info.yaml
+/Coffee Machine/Buy, fill, take_/task-info.yaml
+/Coffee Machine/Estimate the number of servings/task-info.yaml
+/Coffee Machine/Ingredient calculator/task-info.yaml
+/Coffee Machine/Keep track of the supplies/task-info.yaml
+/Coffee Machine/Making coffee/task-info.yaml
+/Coffee Machine/Brush up your code/task-remote-info.yaml
+/Coffee Machine/Buy, fill, take_/task-remote-info.yaml
+/Coffee Machine/Estimate the number of servings/task-remote-info.yaml
+/Coffee Machine/Ingredient calculator/task-remote-info.yaml
+/Coffee Machine/Keep track of the supplies/task-remote-info.yaml
+/Coffee Machine/Making coffee/task-remote-info.yaml
